@@ -1,0 +1,19 @@
+{
+  "name": "valentine_proposal",
+  "version": "1.0.0",
+  "description": "A basic pure-dart web app with ssr & automatic client hydration.",
+  "main": "app.client.dart.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "jaspr build"
+  },
+  "devDependencies": {
+    "jaspr_cli": "latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
